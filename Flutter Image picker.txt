@@ -1,5 +1,5 @@
 1. Image Picker UI 
-
+image_picker: ^0.8.7+3
 Scaffold(
       appBar: AppBar(
         centerTitle: true,
